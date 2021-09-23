@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Advance C**
 
-- 📝 I regularly write articles on [numanmahzabin.medium.com](numanmahzabin.medium.com)
+- 📝 I regularly write articles on [Medium](numanmahzabin.medium.com)
 
-- 💬 Ask me about **Technology, Programming, Business**
+- 💬 Ask me about ** Programming, C Programming, Competitve Programming, Problem Solving, Mathmathics, Technology, Business**
 
 - 📫 How to reach me **numanmahzabin1029@gmail.com**
 
